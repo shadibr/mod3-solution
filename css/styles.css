@@ -1,6 +1,6 @@
 .navbar-brand h1 { /* Food, LLC */
   font-family: 'Lora', serif;
-  position: fixed;
+  position: sticky;
   color: #000;
   font-size: 1.5em;
   font-weight: bold;
