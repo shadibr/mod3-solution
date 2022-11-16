@@ -14,6 +14,12 @@
 	background: #E7E7E7;
 }
 
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
 h2 {
 	margin-top: 0;
 	font-family: 'Lora', serif;
@@ -23,6 +29,7 @@ h2 {
 .container .row div {
 	padding:10px;
 }
+
 
 .container .row div > h3, .container .row div > p{
 	background-color: #D3D3D3;
