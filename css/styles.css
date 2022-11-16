@@ -1,0 +1,50 @@
+.navbar-brand h1 { /* Food, LLC */
+  font-family: 'Lora', serif;
+  color: #000;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+#nav-list a:hover {
+	background: #E7E7E7;
+}
+
+h2 {
+	margin-top: 0;
+	font-family: 'Lora', serif;
+
+}
+
+.container .row div {
+	padding:10px;
+}
+
+.container .row div > h3, .container .row div > p{
+	background-color: #D3D3D3;
+	padding-right: 0;
+	border-right: 15px;
+	border-color: #FFF342;
+	padding-right: 15px;
+	padding-left: 15px;	
+}
+
+.container .row div > h3 {
+	padding-bottom: 10px;
+	margin-bottom: 0;
+	margin-top: 10px;
+	padding-top: 10px;
+	font-family: 'Lora', serif;
+}
+
+.food-description {
+	font-style: italic;
+}
+	
+.top-link {
+	font-style: initial;
+}
+
